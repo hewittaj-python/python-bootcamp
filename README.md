@@ -3,5 +3,5 @@ All work is from following Angela Yu's python pro bootcamp course. https://www.u
 
 ## Replit links
 Some code can be ran from Replit directly in the browser, click on the links below to view my code.
-- [Rock paper scissors project](https://replit.com/@hewittaj/rock-paper-scissors)
-- [Hangman](https://replit.com/@hewittaj/hangman)
+- [Rock, paper, scissors game](https://replit.com/@hewittaj/rock-paper-scissors?v=1)
+- [Hangman game](https://replit.com/@hewittaj/hangman?v=1)
