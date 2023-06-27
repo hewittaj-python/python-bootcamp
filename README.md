@@ -6,3 +6,4 @@ Some code can be ran from Replit directly in the browser, click on the links bel
 **Click the 'Run' button to view it in action!**
 - [Rock, paper, scissors game](https://replit.com/@hewittaj/rock-paper-scissors?v=1)
 - [Hangman game](https://replit.com/@hewittaj/hangman?v=1)
+- [Caesar cipher](https://replit.com/@hewittaj/caesar-cipher?v=1)
